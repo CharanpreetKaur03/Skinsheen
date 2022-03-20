@@ -1,4 +1,4 @@
 # Skinsheen
 A website for skin products
 ## Preview 
-![](https://github.com/CharanpreetKaur03/Skinsheen) 
+![](https://github.com/CharanpreetKaur03/Skinsheen/skinsheen.jpeg) 
